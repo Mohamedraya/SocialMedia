@@ -1,3 +1,15 @@
+i build these stories shown here, the user stories.
+And then i build out the design for these posts shown here. And we are  have an infinite
+
+scroll capability which is not visible and is intended to be so, because we fetch data as we're
+
+scrolling and user doesn't really notice it.
+
+But once they get to the end and there's
+
+no more data to show, we're going to be stopping displaying any more data.
+
+
 This is a new [**React Native**](https://reactnative.dev) project, bootstrapped using [`@react-native-community/cli`](https://github.com/react-native-community/cli).
 
 # Getting Started
